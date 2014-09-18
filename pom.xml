@@ -31,7 +31,16 @@
 			<distribution>repo</distribution>
 		</license>
   </licenses>
-  
+  <developers>
+		<developer>
+			<id>alexxiyang</id>
+			<name>Alex Yang</name>
+			<email>idante@qq.com</email>
+			<timezone>GMT+8</timezone>
+			<roles>
+			</roles>
+		</developer>
+  </developers>
   <scm>
 		<connection>scm:git:https://github.com/alexxiyang/camel-name-utils.git</connection>
 		<developerConnection>scm:git:https://github.com/alexxiyang/camel-name-utils.git</developerConnection>
