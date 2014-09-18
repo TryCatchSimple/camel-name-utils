@@ -5,6 +5,18 @@ It's a simple library. Helps people to get underscore style name from camel styl
 
 ----------
 
+Installation
+----------
+add this dependency to your pom.xml
+
+```xml
+<dependency>
+  <groupId>org.crazycake</groupId>
+  <artifactId>camel-name-utils</artifactId>
+  <version>1.0.0-RELEASE</version>
+</dependency>
+```
+
 
 How to use
 -------------
